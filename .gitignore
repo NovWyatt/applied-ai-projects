@@ -25,5 +25,6 @@ output/
 # Editor / hệ điều hành
 .idea/
 .vscode/
+.claude/
 .DS_Store
 Thumbs.db

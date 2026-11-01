@@ -1,0 +1,145 @@
+text,group
+"Tôi không đăng nhập được vào tài khoản dù nhập đúng mật khẩu",Tài khoản
+"Quên mật khẩu, bấm khôi phục nhưng không thấy email gửi về",Tài khoản
+"Không nhận được mã OTP khi đăng nhập",Tài khoản
+"Tài khoản của tôi bị khóa sau khi nhập sai mật khẩu 3 lần",Tài khoản
+"Muốn đổi email đăng ký sang email mới",Tài khoản
+"Làm sao để xóa tài khoản vĩnh viễn?",Tài khoản
+"Có người lạ đăng nhập vào tài khoản của tôi, tôi nghi bị hack",Tài khoản
+"Đổi số điện thoại rồi nên không nhận được mã xác thực",Tài khoản
+"Đăng ký tài khoản mới báo email đã tồn tại nhưng tôi chưa từng đăng ký",Tài khoản
+"Không bật được xác thực hai lớp",Tài khoản
+"Muốn đổi tên hiển thị trên hồ sơ",Tài khoản
+"Đăng nhập bằng Google báo tài khoản không hợp lệ",Tài khoản
+"Link đặt lại mật khẩu báo đã hết hạn",Tài khoản
+"Tôi muốn gộp hai tài khoản thành một",Tài khoản
+"Tài khoản bị đăng xuất liên tục trên điện thoại",Tài khoản
+"Xác minh danh tính eKYC bị từ chối nhiều lần",Tài khoản
+"Làm thế nào để lấy lại tài khoản khi mất cả email và số điện thoại",Tài khoản
+"khong dang nhap duoc, bao sai mat khau",Tài khoản
+"quen mat khau roi giup minh voi",Tài khoản
+"tai khoan bi khoa khong ro ly do",Tài khoản
+"ma otp ve cham qua, het han truoc khi nhap",Tài khoản
+"Tôi bị mất quyền truy cập email đã dùng để đăng ký",Tài khoản
+"Đăng nhập Facebook không liên kết được với tài khoản cũ",Tài khoản
+"Tài khoản con của nhân viên không đăng nhập được",Tài khoản
+"Cần phân quyền quản trị cho đồng nghiệp trong nhóm",Tài khoản
+"Mỗi lần đăng nhập đều bắt nhập lại mã xác minh",Tài khoản
+"Tên đăng nhập tôi muốn dùng đã có người lấy",Tài khoản
+"Muốn tạm ngưng tài khoản một thời gian",Tài khoản
+"Nhận được email cảnh báo đăng nhập từ thiết bị lạ",Tài khoản
+"Không đổi được mật khẩu, báo mật khẩu cũ không đúng",Tài khoản
+"Tài khoản bị vô hiệu hóa vì vi phạm nhưng tôi không làm gì sai",Tài khoản
+"Can't log in to my account",Tài khoản
+"Reset password email never arrives",Tài khoản
+"Hồ sơ cá nhân ghi sai ngày sinh, muốn sửa lại",Tài khoản
+"Xin mở khóa tài khoản giúp tôi",Tài khoản
+"Tôi lỡ xóa tài khoản, có khôi phục được không",Tài khoản
+"Đăng nhập trên máy tính được nhưng trên điện thoại thì không",Tài khoản
+"Số điện thoại đã được dùng cho một tài khoản khác",Tài khoản
+"Muốn đăng xuất khỏi tất cả thiết bị",Tài khoản
+"Tài khoản doanh nghiệp cần thêm người dùng mới",Tài khoản
+"Mã xác thực gửi qua SMS không tới",Tài khoản
+"dang ky tai khoan khong nhan duoc email kich hoat",Tài khoản
+"Tôi muốn đổi mật khẩu nhưng không tìm thấy mục cài đặt",Tài khoản
+"Đổi điện thoại nên mất ứng dụng xác thực, giờ không đăng nhập được",Tài khoản
+"Bị yêu cầu xác minh lại tài khoản dù đã xác minh rồi",Tài khoản
+"tk bi hack, doi het thong tin roi",Tài khoản
+"Email kích hoạt tài khoản rơi vào thư rác và link đã hết hạn",Tài khoản
+"Muốn chuyển quyền chủ sở hữu tài khoản cho người khác",Tài khoản
+"Tôi bị trừ tiền hai lần cho cùng một đơn hàng",Thanh toán
+"Thanh toán bằng thẻ Visa bị từ chối",Thanh toán
+"Đã chuyển khoản nhưng đơn hàng vẫn báo chưa thanh toán",Thanh toán
+"Muốn hoàn tiền vì hủy gói dịch vụ",Thanh toán
+"Cần xuất hóa đơn VAT cho công ty",Thanh toán
+"Gói thuê bao tự gia hạn dù tôi đã hủy",Thanh toán
+"Mã giảm giá không áp dụng được khi thanh toán",Thanh toán
+"Số tiền bị trừ khác với giá niêm yết",Thanh toán
+"Ví MoMo báo thanh toán thành công nhưng đơn chưa được xác nhận",Thanh toán
+"Làm sao để đổi phương thức thanh toán mặc định",Thanh toán
+"Hoàn tiền đã 10 ngày vẫn chưa về tài khoản ngân hàng",Thanh toán
+"Bị trừ một khoản phí nhưng không biết là phí gì",Thanh toán
+"Muốn hủy gia hạn tự động",Thanh toán
+"Thanh toán qua ZaloPay báo giao dịch không thành công",Thanh toán
+"Hóa đơn tháng này tính sai số lượng người dùng",Thanh toán
+"Thẻ ngân hàng bị trừ tiền nhưng ứng dụng báo thất bại",Thanh toán
+"tru tien 2 lan roi, hoan lai giup minh",Thanh toán
+"chuyen khoan roi ma chua thay cong tien",Thanh toán
+"huy goi roi ma van bi tru tien thang nay",Thanh toán
+"Xin gửi lại biên lai thanh toán tháng trước",Thanh toán
+"Bên mình có hỗ trợ trả góp không?",Thanh toán
+"Nâng cấp gói giữa kỳ thì tính tiền thế nào",Thanh toán
+"Thẻ tín dụng hết hạn, muốn cập nhật thẻ mới",Thanh toán
+"Đang dùng thử miễn phí mà vẫn bị tính phí",Thanh toán
+"Đơn hàng đã hủy nhưng chưa được hoàn tiền",Thanh toán
+"Charged twice for my subscription",Thanh toán
+"Need a refund for last month",Thanh toán
+"Thông tin xuất hóa đơn ghi sai mã số thuế",Thanh toán
+"Quét mã QR thanh toán báo mã không hợp lệ",Thanh toán
+"Muốn chuyển từ trả tiền theo tháng sang theo năm",Thanh toán
+"Số dư ví trong ứng dụng bị trừ bất thường",Thanh toán
+"Thanh toán bằng PayPal không được",Thanh toán
+"Ngân hàng báo giao dịch đang chờ xử lý quá lâu",Thanh toán
+"Cần bảng kê chi phí để quyết toán cuối năm",Thanh toán
+"Gói Premium đã thanh toán nhưng chưa được kích hoạt",Thanh toán
+"Phí chuyển đổi ngoại tệ bị tính quá cao",Thanh toán
+"Khi nào thì hóa đơn kỳ này đến hạn?",Thanh toán
+"hoa don vat chua nhan duoc",Thanh toán
+"Điểm thưởng không được trừ vào tiền thanh toán",Thanh toán
+"Mua nhầm gói, muốn đổi sang gói rẻ hơn và lấy lại tiền chênh lệch",Thanh toán
+"Giao dịch đã bị hủy nhưng tiền vẫn bị trừ",Thanh toán
+"Thanh toán thất bại nhưng tiền vẫn bị ngân hàng tạm giữ",Thanh toán
+"Muốn hủy đơn đặt trước và nhận lại tiền cọc",Thanh toán
+"Không gia hạn được gói vì thẻ bị từ chối",Thanh toán
+"Tôi cần hóa đơn điện tử gửi về email kế toán",Thanh toán
+"Thanh toán bằng Apple Pay bị treo ở bước xác nhận",Thanh toán
+"Sao giá gói tăng mà không có thông báo trước",Thanh toán
+"Mã OTP thanh toán từ ngân hàng không về",Thanh toán
+"Ứng dụng bị treo khi mở lên",Kỹ thuật
+"App tự thoát ngay sau màn hình chào",Kỹ thuật
+"Trang web tải rất chậm, mất hơn 30 giây",Kỹ thuật
+"Báo lỗi 500 khi bấm lưu",Kỹ thuật
+"Màn hình trắng trơn sau khi cập nhật phiên bản mới",Kỹ thuật
+"Không nhận được thông báo đẩy trên điện thoại",Kỹ thuật
+"Không tải được ảnh lên, cứ quay vòng mãi",Kỹ thuật
+"Cập nhật ứng dụng xong thì mất hết bản nháp",Kỹ thuật
+"Video không phát được, chỉ hiện màn hình đen",Kỹ thuật
+"Giao diện bị vỡ trên iPhone 12",Kỹ thuật
+"Dữ liệu không đồng bộ giữa máy tính và điện thoại",Kỹ thuật
+"Nút gửi không bấm được",Kỹ thuật
+"Xuất file Excel bị lỗi font tiếng Việt",Kỹ thuật
+"app bi do, bam gi cung khong an",Kỹ thuật
+"web load cham qua",Kỹ thuật
+"khong upload duoc file pdf",Kỹ thuật
+"Ứng dụng tốn pin bất thường",Kỹ thuật
+"Chế độ tối hiển thị chữ đen trên nền đen",Kỹ thuật
+"App crashes every time I open the camera",Kỹ thuật
+"The website shows error 404 on the settings page",Kỹ thuật
+"Tìm kiếm không ra kết quả dù có dữ liệu",Kỹ thuật
+"Bản đồ không hiển thị vị trí",Kỹ thuật
+"Không kết nối được máy chủ, báo hết thời gian chờ",Kỹ thuật
+"Lịch hẹn hiển thị sai múi giờ",Kỹ thuật
+"Ứng dụng không cài được trên Android 9",Kỹ thuật
+"Email thông báo gửi về bị lặp nhiều lần",Kỹ thuật
+"Biểu đồ trong báo cáo không hiển thị số liệu",Kỹ thuật
+"Bấm in thì ra trang trắng",Kỹ thuật
+"Tính năng chat bị mất tin nhắn cũ",Kỹ thuật
+"Mở trên Safari thì lỗi, Chrome thì bình thường",Kỹ thuật
+"API trả về lỗi timeout khi gọi nhiều",Kỹ thuật
+"Không quét được mã vạch bằng camera",Kỹ thuật
+"App giật lag khi cuộn danh sách dài",Kỹ thuật
+"Ảnh tải lên bị xoay ngược",Kỹ thuật
+"File đính kèm lớn hơn 10MB không gửi được",Kỹ thuật
+"Ứng dụng không mở được sau khi cập nhật iOS",Kỹ thuật
+"Webhook không nhận được dữ liệu",Kỹ thuật
+"Ô nhập liệu không gõ được tiếng Việt có dấu",Kỹ thuật
+"Trang quản trị hiện lỗi JavaScript",Kỹ thuật
+"Đồng hồ đếm ngược chạy sai",Kỹ thuật
+"Không đổi được ảnh đại diện, báo lỗi định dạng file",Kỹ thuật
+"App bị treo khi bấm nút thanh toán",Kỹ thuật
+"Thông báo nhắc lịch đến trễ cả tiếng",Kỹ thuật
+"Không xem được lịch sử đơn hàng, trang cứ tải mãi",Kỹ thuật
+"loi ket noi mang du wifi van manh",Kỹ thuật
+"Trang cài đặt bị lỗi màu khi bật chế độ tối",Kỹ thuật
+"Tải file về bị hỏng không mở được",Kỹ thuật
+"Màn hình đăng nhập bị lỗi hiển thị, không thấy ô nhập mật khẩu",Kỹ thuật

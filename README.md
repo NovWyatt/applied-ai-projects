@@ -10,7 +10,7 @@ Bộ 5 dự án **AI ứng dụng** giải các bài toán nghiệp vụ quen th
 |---|-------|----------|-----------------|------------|
 | 1 | [Đọc hóa đơn](01-doc-hoa-don/) | Chuyển ảnh hóa đơn thành bảng có thể sửa, xuất CSV | Python, PaddleOCR, Pandas | 🚧 Chưa làm |
 | 2 | [Tìm sản phẩm bằng ảnh](02-tim-san-pham-bang-anh/) | Tìm hình tương tự trong danh mục | PyTorch, Hugging Face, Qdrant | 🚧 Chưa làm |
-| 3 | [Phân loại ticket](03-phan-loai-ticket/) | Gợi ý đúng nhóm tiếp nhận cho ticket mới | scikit-learn, FastAPI | 🚧 Chưa làm |
+| 3 | [Phân loại ticket](03-phan-loai-ticket/) | Gợi ý đúng nhóm tiếp nhận cho ticket mới | scikit-learn, FastAPI | ✅ Xong |
 | 4 | [Tóm tắt cuộc họp](04-tom-tat-cuoc-hop/) | Từ bản ghi âm tới danh sách đầu việc | Python, OpenAI | 🚧 Chưa làm |
 | 5 | [Gợi ý bài viết](05-goi-y-bai-viet/) | Đề xuất nội dung từ lịch sử tương tác | Python, Pandas, scikit-learn | 🚧 Chưa làm |
 
