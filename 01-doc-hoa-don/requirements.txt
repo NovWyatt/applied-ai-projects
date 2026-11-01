@@ -1,5 +1,9 @@
-# Cài trong .venv riêng của thư mục này. Ghim phiên bản (pip freeze) sau khi chạy thử thành công.
-paddlepaddle
-paddleocr
-pandas
-pillow
+# Cài trong .venv riêng của thư mục này. Đã chạy thử với Python 3.12 trên Windows (CPU).
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+pandas==3.1.0
+pillow==13.0.0
+streamlit==1.66.1
+
+# Test
+pytest==9.2.0

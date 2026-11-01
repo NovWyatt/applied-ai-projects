@@ -1,0 +1,7 @@
+[browser]
+# Không gửi thống kê sử dụng về Streamlit.
+gatherUsageStats = false
+
+[server]
+# Không hỏi email ở lần chạy đầu và không tự mở trình duyệt.
+headless = true
