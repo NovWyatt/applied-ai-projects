@@ -1,0 +1,49 @@
+sku,ten,loai,mau,hoa_van,file
+SP01,Áo thun trắng chấm bi,Áo thun,Trắng,Chấm bi,catalog/SP01.png
+SP02,Áo thun vàng chấm bi,Áo thun,Vàng,Chấm bi,catalog/SP02.png
+SP03,Áo thun vàng sọc,Áo thun,Vàng,Sọc,catalog/SP03.png
+SP04,Áo thun vàng,Áo thun,Vàng,Trơn,catalog/SP04.png
+SP05,Áo thun xanh dương sọc,Áo thun,Xanh dương,Sọc,catalog/SP05.png
+SP06,Áo thun xanh lá sọc,Áo thun,Xanh lá,Sọc,catalog/SP06.png
+SP07,Áo thun đen chấm bi,Áo thun,Đen,Chấm bi,catalog/SP07.png
+SP08,Áo thun đen sọc,Áo thun,Đen,Sọc,catalog/SP08.png
+SP09,Cốc trắng chấm bi,Cốc,Trắng,Chấm bi,catalog/SP09.png
+SP10,Cốc trắng sọc,Cốc,Trắng,Sọc,catalog/SP10.png
+SP11,Cốc vàng sọc,Cốc,Vàng,Sọc,catalog/SP11.png
+SP12,Cốc vàng,Cốc,Vàng,Trơn,catalog/SP12.png
+SP13,Cốc đen chấm bi,Cốc,Đen,Chấm bi,catalog/SP13.png
+SP14,Cốc đen,Cốc,Đen,Trơn,catalog/SP14.png
+SP15,Cốc đỏ chấm bi,Cốc,Đỏ,Chấm bi,catalog/SP15.png
+SP16,Cốc đỏ,Cốc,Đỏ,Trơn,catalog/SP16.png
+SP17,Chai nước trắng chấm bi,Chai nước,Trắng,Chấm bi,catalog/SP17.png
+SP18,Chai nước trắng sọc,Chai nước,Trắng,Sọc,catalog/SP18.png
+SP19,Chai nước trắng,Chai nước,Trắng,Trơn,catalog/SP19.png
+SP20,Chai nước xanh dương chấm bi,Chai nước,Xanh dương,Chấm bi,catalog/SP20.png
+SP21,Chai nước xanh dương,Chai nước,Xanh dương,Trơn,catalog/SP21.png
+SP22,Chai nước xanh lá chấm bi,Chai nước,Xanh lá,Chấm bi,catalog/SP22.png
+SP23,Chai nước đen sọc,Chai nước,Đen,Sọc,catalog/SP23.png
+SP24,Chai nước đỏ sọc,Chai nước,Đỏ,Sọc,catalog/SP24.png
+SP25,Túi xách vàng,Túi xách,Vàng,Trơn,catalog/SP25.png
+SP26,Túi xách xanh dương chấm bi,Túi xách,Xanh dương,Chấm bi,catalog/SP26.png
+SP27,Túi xách xanh dương sọc,Túi xách,Xanh dương,Sọc,catalog/SP27.png
+SP28,Túi xách xanh lá sọc,Túi xách,Xanh lá,Sọc,catalog/SP28.png
+SP29,Túi xách xanh lá,Túi xách,Xanh lá,Trơn,catalog/SP29.png
+SP30,Túi xách đen chấm bi,Túi xách,Đen,Chấm bi,catalog/SP30.png
+SP31,Túi xách đen sọc,Túi xách,Đen,Sọc,catalog/SP31.png
+SP32,Túi xách đen,Túi xách,Đen,Trơn,catalog/SP32.png
+SP33,Mũ lưỡi trai trắng chấm bi,Mũ lưỡi trai,Trắng,Chấm bi,catalog/SP33.png
+SP34,Mũ lưỡi trai trắng,Mũ lưỡi trai,Trắng,Trơn,catalog/SP34.png
+SP35,Mũ lưỡi trai vàng chấm bi,Mũ lưỡi trai,Vàng,Chấm bi,catalog/SP35.png
+SP36,Mũ lưỡi trai vàng sọc,Mũ lưỡi trai,Vàng,Sọc,catalog/SP36.png
+SP37,Mũ lưỡi trai xanh dương chấm bi,Mũ lưỡi trai,Xanh dương,Chấm bi,catalog/SP37.png
+SP38,Mũ lưỡi trai xanh dương sọc,Mũ lưỡi trai,Xanh dương,Sọc,catalog/SP38.png
+SP39,Mũ lưỡi trai xanh lá sọc,Mũ lưỡi trai,Xanh lá,Sọc,catalog/SP39.png
+SP40,Mũ lưỡi trai đỏ sọc,Mũ lưỡi trai,Đỏ,Sọc,catalog/SP40.png
+SP41,Giày vàng chấm bi,Giày,Vàng,Chấm bi,catalog/SP41.png
+SP42,Giày xanh dương chấm bi,Giày,Xanh dương,Chấm bi,catalog/SP42.png
+SP43,Giày xanh lá chấm bi,Giày,Xanh lá,Chấm bi,catalog/SP43.png
+SP44,Giày xanh lá sọc,Giày,Xanh lá,Sọc,catalog/SP44.png
+SP45,Giày xanh lá,Giày,Xanh lá,Trơn,catalog/SP45.png
+SP46,Giày đen chấm bi,Giày,Đen,Chấm bi,catalog/SP46.png
+SP47,Giày đen,Giày,Đen,Trơn,catalog/SP47.png
+SP48,Giày đỏ sọc,Giày,Đỏ,Sọc,catalog/SP48.png

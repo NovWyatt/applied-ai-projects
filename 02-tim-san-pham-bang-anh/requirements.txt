@@ -1,5 +1,12 @@
-# Cài trong .venv riêng của thư mục này. Ghim phiên bản (pip freeze) sau khi chạy thử thành công.
-torch
-transformers
-pillow
-qdrant-client
+# Cài trong .venv riêng của thư mục này. Đã chạy thử với Python 3.12 trên Windows (CPU).
+# Bản torch chỉ dùng CPU nhẹ hơn nhiều so với bản CUDA mặc định trên Linux.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+transformers==5.22.1
+qdrant-client==1.20.0
+pandas==3.1.0
+pillow==13.0.0
+streamlit==1.66.1
+
+# Test
+pytest==9.2.0
