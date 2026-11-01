@@ -1,3 +1,6 @@
-# Cài trong .venv riêng của thư mục này. Ghim phiên bản (pip freeze) sau khi chạy thử thành công.
-pandas
-scikit-learn
+# Cài trong .venv riêng của thư mục này. Đã chạy thử với Python 3.12.
+pandas==3.1.0
+scikit-learn==1.9.1
+
+# Test
+pytest==9.2.0
