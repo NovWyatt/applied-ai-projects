@@ -10,6 +10,8 @@ import numpy as np
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 # Mô hình (~30 MB) tải về models/ của dự án thay vì ~/.paddlex trong thư mục người dùng.
 os.environ.setdefault("PADDLE_PDX_CACHE_HOME", str(PROJECT_DIR / "models" / "paddlex"))
+# PaddleX tải mô hình qua Hugging Face Hub, thư viện này ghi thêm vào ~/.cache/huggingface nếu không đặt.
+os.environ.setdefault("HF_HOME", str(PROJECT_DIR / "models" / "huggingface"))
 os.environ.setdefault("PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK", "True")
 
 # Bản small: ~3 giây/ảnh trên CPU, giữ dấu tiếng Việt ngang bản medium (~20 giây/ảnh)
