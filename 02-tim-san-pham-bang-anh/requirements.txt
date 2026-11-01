@@ -1,0 +1,5 @@
+# Cài trong .venv riêng của thư mục này. Ghim phiên bản (pip freeze) sau khi chạy thử thành công.
+torch
+transformers
+pillow
+qdrant-client

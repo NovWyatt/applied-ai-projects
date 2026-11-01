@@ -1,0 +1,29 @@
+# Môi trường Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Bí mật
+.env
+.env.*
+!.env.example
+
+# Tài liệu tham khảo nội bộ (ảnh infographic của tác giả khác, không đưa lên repo công khai)
+_reference/
+
+# Mô hình và dữ liệu sinh ra khi chạy
+models/
+*.pt
+*.pth
+*.joblib
+qdrant_storage/
+output/
+
+# Editor / hệ điều hành
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
