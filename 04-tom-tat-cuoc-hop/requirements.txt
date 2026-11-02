@@ -1,3 +1,15 @@
-# Cài trong .venv riêng của thư mục này. Ghim phiên bản (pip freeze) sau khi chạy thử thành công.
-openai
-python-dotenv
+# Cài trong .venv riêng của thư mục này. Đã chạy thử với Python 3.12 trên Windows.
+# Mô hình ngôn ngữ chạy bằng Ollama (cài riêng, xem README), không cần khóa API.
+faster-whisper==1.2.1
+# faster-whisper 1.2.1 gọi av.open(metadata_errors=...), tham số này đã bị bỏ ở av 19.
+av==18.1.0
+ollama==0.6.3
+pydantic==2.14.2
+pandas==3.1.0
+streamlit==1.66.1
+
+# Chỉ cần khi tạo lại ghi âm mẫu (src/make_audio.py)
+piper-tts==1.8.0
+
+# Test
+pytest==9.2.0

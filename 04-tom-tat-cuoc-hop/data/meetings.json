@@ -1,0 +1,141 @@
+[
+  {
+    "id": "H01",
+    "tieu_de": "Giao ban nhóm kinh doanh",
+    "ngay": "2026-11-02",
+    "nguoi_du": ["Lan", "Minh", "Hùng", "Trang"],
+    "loi_thoai": [
+      ["Lan", "Chào cả nhà, mình bắt đầu giao ban tuần nhé. Đầu tiên là khách hàng Phương Nam. Minh cập nhật giúp chị."],
+      ["Minh", "Dạ, bên Phương Nam đã đồng ý về mặt kỹ thuật, giờ họ chờ báo giá chính thức."],
+      ["Lan", "Vậy Minh gửi báo giá cho Phương Nam trước thứ Sáu tuần này nhé."],
+      ["Minh", "Dạ vâng ạ."],
+      ["Hùng", "Buổi gặp Phương Nam tuần sau cần có slide giới thiệu sản phẩm. Để em chuẩn bị slide cho."],
+      ["Lan", "Ừ, Hùng làm slide, xong trước thứ Ba tuần sau để chị duyệt."],
+      ["Trang", "Chị ơi, khách hàng Hòa Bình vừa hỏi về việc gia hạn hợp đồng bảo trì."],
+      ["Lan", "Hùng gọi lại cho Hòa Bình nhé, khi nào tiện thì gọi, không gấp."],
+      ["Hùng", "Dạ được chị."],
+      ["Minh", "Tháng này mình có in thêm tờ rơi cho hội chợ không chị?"],
+      ["Lan", "Thôi, ngân sách tháng này hết rồi, bỏ vụ tờ rơi đi."],
+      ["Lan", "Còn Trang tổng hợp doanh số tháng mười, gửi chị trước thứ Hai tuần sau."],
+      ["Trang", "Dạ em nhớ rồi."],
+      ["Lan", "Vậy thôi, cảm ơn mọi người."]
+    ],
+    "dau_viec": [
+      {"viec": "Gửi báo giá chính thức cho Phương Nam", "phu_trach": "Minh", "han": "thứ Sáu tuần này", "tu_khoa": ["bao gia"], "can_nguoi_noi": false},
+      {"viec": "Chuẩn bị slide giới thiệu sản phẩm cho buổi gặp Phương Nam", "phu_trach": "Hùng", "han": "thứ Ba tuần sau", "tu_khoa": ["slide", "gioi thieu"], "can_nguoi_noi": false},
+      {"viec": "Gọi lại cho Hòa Bình về gia hạn hợp đồng bảo trì", "phu_trach": "Hùng", "han": "", "tu_khoa": ["hoa binh", "goi lai"], "can_nguoi_noi": false},
+      {"viec": "Tổng hợp doanh số tháng 10", "phu_trach": "Trang", "han": "thứ Hai tuần sau", "tu_khoa": ["doanh so", "tong hop"], "can_nguoi_noi": false}
+    ]
+  },
+  {
+    "id": "H02",
+    "tieu_de": "Họp triển khai website mới",
+    "ngay": "2026-11-03",
+    "nguoi_du": ["Phong", "Ngọc", "Tuấn", "Vy"],
+    "loi_thoai": [
+      ["Phong", "Hôm nay mình chốt các phần việc cho website mới. Ngọc, giao diện trang chủ đến đâu rồi em?"],
+      ["Ngọc", "Em làm xong bản nháp rồi anh, còn chỉnh màu sắc với hình ảnh."],
+      ["Phong", "Được, Ngọc hoàn thiện giao diện trang chủ, hạn là ngày mười lăm tháng mười một."],
+      ["Tuấn", "Phần thanh toán trực tuyến thì em làm, chắc cuối tháng là xong."],
+      ["Phong", "Ừ, vậy nhé."],
+      ["Phong", "Trang giới thiệu công ty thì Vy viết nội dung nhé."],
+      ["Vy", "Anh ơi, tuần này em đang chạy chiến dịch quảng cáo, chắc không kịp."],
+      ["Phong", "À vậy thôi, nội dung trang giới thiệu để anh viết, trong tuần sau."],
+      ["Ngọc", "Còn tên miền cũ thì sao anh? Em nghe nói sắp hết hạn."],
+      ["Phong", "Đúng rồi, cần ai đó kiểm tra xem tên miền hết hạn ngày nào. Cái này để tính sau."],
+      ["Vy", "Em đề xuất làm thêm phiên bản tiếng Anh cho website."],
+      ["Phong", "Cái đó giai đoạn hai mới làm, giờ chưa cần."],
+      ["Phong", "Vậy là xong. Cảm ơn cả nhóm."]
+    ],
+    "dau_viec": [
+      {"viec": "Hoàn thiện giao diện trang chủ", "phu_trach": "Ngọc", "han": "15/11", "tu_khoa": ["trang chu"], "can_nguoi_noi": false},
+      {"viec": "Làm phần thanh toán trực tuyến", "phu_trach": "Tuấn", "han": "cuối tháng", "tu_khoa": ["thanh toan"], "can_nguoi_noi": true},
+      {"viec": "Viết nội dung trang giới thiệu công ty", "phu_trach": "Phong", "han": "trong tuần sau", "tu_khoa": ["gioi thieu"], "can_nguoi_noi": true},
+      {"viec": "Kiểm tra ngày hết hạn của tên miền cũ", "phu_trach": "", "han": "", "tu_khoa": ["ten mien"], "can_nguoi_noi": false}
+    ]
+  },
+  {
+    "id": "H03",
+    "tieu_de": "Họp chuẩn bị tiệc tất niên",
+    "ngay": "2026-11-04",
+    "nguoi_du": ["Hà", "Quân", "Mai", "Bình"],
+    "loi_thoai": [
+      ["Hà", "Mình họp nhanh về tiệc tất niên của công ty nhé. Năm nay dự kiến khoảng tám mươi người."],
+      ["Quân", "Áo đồng phục cho buổi tiệc em đặt xong rồi chị, tuần sau bên đó giao."],
+      ["Hà", "Tốt quá. Mai lo đặt nhà hàng nhé, chậm nhất ngày hai mươi tháng mười một phải có chỗ."],
+      ["Mai", "Dạ, em sẽ hỏi ba bốn chỗ rồi báo chị."],
+      ["Hà", "Quân lập danh sách khách mời, gửi chị vào thứ Tư tuần sau."],
+      ["Quân", "Dạ."],
+      ["Bình", "Phần văn nghệ thì sao chị?"],
+      ["Hà", "Bình liên hệ ban nhạc giúp chị, xin báo giá trước."],
+      ["Bình", "Dạ, mà ngân sách cho ban nhạc là bao nhiêu chị?"],
+      ["Hà", "Cái này chị phải hỏi lại giám đốc, có kết quả chị báo sau."],
+      ["Hà", "Vậy nhé, mọi người làm đúng hạn giúp chị."]
+    ],
+    "dau_viec": [
+      {"viec": "Đặt nhà hàng cho tiệc tất niên", "phu_trach": "Mai", "han": "20/11", "tu_khoa": ["nha hang"], "can_nguoi_noi": false},
+      {"viec": "Lập danh sách khách mời", "phu_trach": "Quân", "han": "thứ Tư tuần sau", "tu_khoa": ["khach moi"], "can_nguoi_noi": false},
+      {"viec": "Liên hệ ban nhạc, xin báo giá", "phu_trach": "Bình", "han": "", "tu_khoa": ["ban nhac", "lien he"], "can_nguoi_noi": false},
+      {"viec": "Hỏi giám đốc về ngân sách cho ban nhạc", "phu_trach": "Hà", "han": "", "tu_khoa": ["ngan sach", "giam doc"], "can_nguoi_noi": true}
+    ]
+  },
+  {
+    "id": "H04",
+    "tieu_de": "Họp nhóm chăm sóc khách hàng",
+    "ngay": "2026-11-05",
+    "nguoi_du": ["Thảo", "Long", "Nhi"],
+    "loi_thoai": [
+      ["Thảo", "Tuần này số ticket tồn đọng tăng lên hơn hai trăm. Có ai biết vì sao không?"],
+      ["Long", "Dạ, chủ yếu do lỗi đăng nhập trên ứng dụng điện thoại sau bản cập nhật hôm thứ Hai."],
+      ["Thảo", "Vậy Long sửa lỗi đăng nhập luôn trong hôm nay nhé, ưu tiên số một."],
+      ["Long", "Dạ em làm ngay."],
+      ["Nhi", "Nhiều khách cũng hỏi cách đổi mật khẩu. Em nghĩ nên có bài hướng dẫn trên trang trợ giúp."],
+      ["Thảo", "Ý hay đó. Nhi viết bài hướng dẫn đổi mật khẩu nhé."],
+      ["Nhi", "Dạ."],
+      ["Thảo", "Còn chị sẽ báo cáo số ticket tồn đọng lên ban giám đốc vào sáng thứ Năm."],
+      ["Long", "Chị có cần em gửi số liệu chi tiết không?"],
+      ["Thảo", "Có, em gửi chị trước tối thứ Tư nhé."],
+      ["Thảo", "Được rồi, vậy thôi."]
+    ],
+    "dau_viec": [
+      {"viec": "Sửa lỗi đăng nhập trên ứng dụng điện thoại", "phu_trach": "Long", "han": "hôm nay", "tu_khoa": ["dang nhap"], "can_nguoi_noi": false},
+      {"viec": "Viết bài hướng dẫn đổi mật khẩu trên trang trợ giúp", "phu_trach": "Nhi", "han": "", "tu_khoa": ["mat khau"], "can_nguoi_noi": false},
+      {"viec": "Báo cáo số ticket tồn đọng lên ban giám đốc", "phu_trach": "Thảo", "han": "sáng thứ Năm", "tu_khoa": ["bao cao", "giam doc"], "can_nguoi_noi": true},
+      {"viec": "Gửi số liệu ticket chi tiết cho Thảo", "phu_trach": "Long", "han": "tối thứ Tư", "tu_khoa": ["so lieu"], "can_nguoi_noi": true}
+    ]
+  },
+  {
+    "id": "H05",
+    "tieu_de": "Trao đổi một-một",
+    "ngay": "2026-11-05",
+    "nguoi_du": ["Lan", "Minh"],
+    "loi_thoai": [
+      ["Lan", "Minh ơi, quý này công ty ra sản phẩm mới, em cần học khóa đào tạo sản phẩm trước cuối quý nhé."],
+      ["Minh", "Dạ, khóa đó học trên mạng hay học trực tiếp chị?"],
+      ["Lan", "Học trên mạng. Chị sẽ gửi tài liệu cho em ngay chiều nay."],
+      ["Minh", "Dạ cảm ơn chị. Em cũng muốn xin nghỉ phép hai ngày cuối tháng."],
+      ["Lan", "Được, em điền đơn trên hệ thống là chị duyệt."],
+      ["Minh", "Dạ vâng."]
+    ],
+    "dau_viec": [
+      {"viec": "Học khóa đào tạo sản phẩm mới", "phu_trach": "Minh", "han": "cuối quý", "tu_khoa": ["hoc khoa", "dao tao"], "can_nguoi_noi": false},
+      {"viec": "Gửi tài liệu khóa học cho Minh", "phu_trach": "Lan", "han": "chiều nay", "tu_khoa": ["tai lieu"], "can_nguoi_noi": true},
+      {"viec": "Điền đơn xin nghỉ phép trên hệ thống", "phu_trach": "Minh", "han": "", "tu_khoa": ["nghi phep"], "can_nguoi_noi": true}
+    ]
+  },
+  {
+    "id": "H06",
+    "tieu_de": "Cập nhật tiến độ website",
+    "ngay": "2026-11-06",
+    "nguoi_du": ["Phong", "Tuấn", "Ngọc"],
+    "loi_thoai": [
+      ["Phong", "Hôm nay chỉ cập nhật nhanh thôi. Tuấn, phần thanh toán thế nào rồi?"],
+      ["Tuấn", "Dạ đã chạy thử được với thẻ nội địa, mọi thứ ổn anh."],
+      ["Phong", "Tốt. Ngọc thì sao?"],
+      ["Ngọc", "Giao diện trang chủ em đã gửi anh hôm qua rồi ạ."],
+      ["Phong", "Ừ anh xem rồi, đẹp lắm. Vậy mọi thứ đang đúng tiến độ, tuần sau mình họp tiếp."],
+      ["Tuấn", "Dạ."]
+    ],
+    "dau_viec": []
+  }
+]

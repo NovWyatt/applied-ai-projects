@@ -11,7 +11,7 @@ Bộ 5 dự án **AI ứng dụng** giải các bài toán nghiệp vụ quen th
 | 1 | [Đọc hóa đơn](01-doc-hoa-don/) | Chuyển ảnh hóa đơn thành bảng có thể sửa, xuất CSV | Python, PaddleOCR, Pandas, Streamlit | ✅ Xong |
 | 2 | [Tìm sản phẩm bằng ảnh](02-tim-san-pham-bang-anh/) | Tìm hình tương tự trong danh mục từ ảnh khách chụp | PyTorch, Hugging Face (DINOv2, CLIP), Qdrant, Streamlit | ✅ Xong |
 | 3 | [Phân loại ticket](03-phan-loai-ticket/) | Gợi ý đúng nhóm tiếp nhận cho ticket mới | scikit-learn, FastAPI | ✅ Xong |
-| 4 | [Tóm tắt cuộc họp](04-tom-tat-cuoc-hop/) | Từ bản ghi âm tới danh sách đầu việc | Python, OpenAI | 🚧 Chưa làm |
+| 4 | [Tóm tắt cuộc họp](04-tom-tat-cuoc-hop/) | Từ bản ghi âm tới danh sách đầu việc, chạy trên máy | faster-whisper, Ollama (Qwen 3.5), Streamlit | ✅ Xong |
 | 5 | [Gợi ý bài viết](05-goi-y-bai-viet/) | Đề xuất nội dung từ lịch sử tương tác | Python, Pandas, scikit-learn | ✅ Xong |
 
 ## Cách chạy
@@ -32,7 +32,7 @@ Cách chạy cụ thể nằm trong README của từng thư mục.
 
 - **Dữ liệu mẫu là dữ liệu tự tạo.** Không có hóa đơn, ticket hay bản ghi âm thật trong repo.
 - **Không chắc thì để người kiểm tra.** AI chỉ gợi ý; khi độ tin cậy thấp hoặc thiếu thông tin thì chuyển cho người xem hoặc để trống, không đoán bừa.
-- **Không commit khóa API.** Sao chép `.env.example` thành `.env` rồi điền khóa của bạn.
+- **Không cần khóa API.** Mọi mô hình chạy trên máy (dự án 04 cần cài thêm [Ollama](https://ollama.com)). Nếu sau này thêm dịch vụ cần khóa, để khóa trong `.env` (đã nằm trong `.gitignore`), không commit.
 
 ## Ghi nguồn
 

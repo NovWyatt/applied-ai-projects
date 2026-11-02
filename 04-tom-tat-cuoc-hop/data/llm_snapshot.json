@@ -1,0 +1,633 @@
+{
+ "qwen3.5:2b-q4_K_M": {
+  "bien-ban": {
+   "H01": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Giao việc về báo giá cho khách hàng Phương Nam",
+       "phu_trach": "Minh",
+       "han": "Thứ Sáu tuần này",
+       "dong": 1
+      },
+      {
+       "viec": "Chuẩn bị slide giới thiệu sản phẩm cho buổi gặp gỡ khách hàng Hòa Bình",
+       "phu_trach": "Hùng",
+       "han": "Thứ Ba tuần sau",
+       "dong": 5
+      },
+      {
+       "viec": "Tổng hợp doanh số tháng mười và gửi báo cáo",
+       "phu_trach": "Trang",
+       "han": "Thứ Hai tuần sau",
+       "dong": 12
+      }
+     ],
+     "tom_tat": [
+      "Ban nhóm kinh doanh đã nhận được giao việc từ cuộc họp ngày 20/11/2026.",
+      "Việc đầu tiên là cập nhật thông tin về khách hàng Phương Nam: Minh sẽ gửi báo giá cho họ trước thứ Sáu tuần này.",
+      "Việc tiếp theo là chuẩn bị slide giới thiệu sản phẩm cho buổi gặp gỡ với khách hàng Hòa Bình (Hùng sẽ hoàn thành trước thứ Ba tuần sau để chị duyệt).",
+      "Việc cuối cùng trong biên bản là tổng hợp doanh số tháng mười và gửi báo cáo cho ban nhóm (Trang sẽ hoàn thành trước thứ Hai tuần sau).",
+      "Các yêu cầu khác như việc gọi lại khách hàng Hòa Bình, in tờ rơi hay các câu hỏi chưa được giao cụ thể đều không nằm trong phạm vi biên bản này."
+     ]
+    },
+    "giay": 39.8
+   },
+   "H02": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Hoàn thiện giao diện trang chủ",
+       "phu_trach": "Ngọc",
+       "han": "15/11",
+       "dong": 3
+      },
+      {
+       "viec": "Viết nội dung trang giới thiệu công ty",
+       "phu_trach": "Vy",
+       "han": "Tuần sau",
+       "dong": 6
+      }
+     ],
+     "tom_tat": [
+      "Phong đã chốt các phần việc cho website mới.",
+      "Ngọc hoàn thiện giao diện trang chủ trước ngày 15/11.",
+      "Tuấn sẽ thực hiện phần thanh toán trực tuyến, dự kiến xong cuối tháng.",
+      "Vy sẽ viết nội dung trang giới thiệu công ty trong tuần sau (do đang chạy chiến dịch quảng cáo).",
+      "Phong đề nghị kiểm tra thời hạn hết hạn của tên miền cũ để tính kế hoạch."
+     ]
+    },
+    "giay": 26.1
+   },
+   "H03": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Lập danh sách khách mời",
+       "phu_trach": "Quân",
+       "han": "thứ Tư tuần sau",
+       "dong": 1
+      },
+      {
+       "viec": "Hỏi và báo giá nhà hàng",
+       "phu_trach": "Mai",
+       "han": "ngày 20 tháng 11",
+       "dong": 3
+      },
+      {
+       "viec": "Liên hệ ban nhạc để xin báo giá",
+       "phu_trach": "Bình",
+       "han": "",
+       "dong": 7
+      }
+     ],
+     "tom_tat": [
+      "Đã thống nhất số lượng dự tiệc là 80 người.",
+      "Đã xác nhận áo đồng phục sẽ được giao cho Quân vào tuần sau.",
+      "Mai sẽ liên hệ nhà hàng để đặt chỗ trước ngày 20/11.",
+      "Quân sẽ lập danh sách khách mời và gửi về trong vòng 3 ngày tới.",
+      "Bình sẽ liên hệ ban nhạc để xin báo giá ngân sách cho phần văn nghệ.",
+      "Ngân sách ban nhạc cần được hỏi lại giám đốc trước khi đưa ra kết quả."
+     ]
+    },
+    "giay": 30.5
+   },
+   "H04": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Sửa lỗi đăng nhập trên ứng dụng điện thoại",
+       "phu_trach": "Long",
+       "han": "thứ Sáu tuần này",
+       "dong": 1
+      },
+      {
+       "viec": "Viết bài hướng dẫn đổi mật khẩu",
+       "phu_trach": "Nhi",
+       "han": "",
+       "dong": 5
+      },
+      {
+       "viec": "Báo cáo số ticket tồn đọng lên ban giám đốc",
+       "phu_trach": "Thảo",
+       "han": "sáng thứ Năm",
+       "dong": 8
+      }
+     ],
+     "tom_tat": [
+      "Sau cuộc họp, các việc được giao là: Long sẽ sửa lỗi đăng nhập trên ứng dụng điện thoại vào thứ Sáu tuần này; Nhi sẽ viết bài hướng dẫn đổi mật khẩu; Thảo sẽ báo cáo số ticket tồn đọng lên ban giám đốc vào sáng thứ Năm và gửi số liệu chi tiết trước tối thứ Tư.",
+      "Lưu ý: Việc 'Báo cáo số ticket tồn đọng' được giao cho Thảo nhưng chưa có người nhận cụ thể trong biên bản, nên không ghi danh người nhận."
+     ]
+    },
+    "giay": 34.0
+   },
+   "H05": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Lan và Minh đã trao đổi về việc học khóa đào tạo sản phẩm trước cuối quý (học trực tuyến, Lan sẽ gửi tài liệu cho Minh chiều nay). Minh cũng xin nghỉ phép hai ngày cuối tháng."
+     ]
+    },
+    "giay": 7.7
+   },
+   "H06": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Cuộc họp cập nhật tiến độ website diễn ra vào ngày 20/11/2026 với các thành viên là Phong, Tuấn và Ngọc. Nội dung thảo luận xoay quanh việc kiểm tra tiến độ công việc: Tuấn báo cáo đã hoàn thành phần thanh toán (chạy thử được với thẻ nội địa), Phong đánh giá giao diện trang chủ của Ngọc rất đẹp và xác nhận mọi thứ đang đúng tiến độ, đồng thời quyết định họp tiếp vào tuần sau.",
+      "Tóm tắt ngắn gọn cuộc họp cập nhật tiến độ website diễn ra vào ngày 20/11/2026 với các thành viên là Phong, Tuấn và Ngọc. Nội dung thảo luận xoay quanh việc kiểm tra tiến độ công việc: Tuấn báo cáo đã hoàn thành phần thanh toán (chạy thử được với thẻ nội địa), Phong đánh giá giao diện trang chủ của Ngọc rất đẹp và xác nhận mọi thứ đang đúng tiến độ, đồng thời quyết định họp tiếp vào tuần sau."
+     ]
+    },
+    "giay": 17.7
+   }
+  },
+  "ghi-am": {
+   "H01": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Giao việc ban nhóm kinh doanh",
+      "Lan: Cập nhật khách hàng Phương Nam (kỹ thuật đã đồng ý, chờ báo giá chính thức), gửi báo giá cho Phương Nam trước thứ 6 tuần này.",
+      "Minh: Chuẩn bị say giới thiệu sản phẩm cho buổi gặp Phương Nam tuần sau.",
+      "Hùng: Gọi lại khách hàng Hòa Bình về việc gia hạn hợp đồng bảo (không gấp).",
+      "Trang: Tổng hợp số tháng 10 gửi chị trước thứ 2 tuần sau."
+     ]
+    },
+    "giay": 12.6
+   },
+   "H02": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Mọc hoàn thiện giao diện trang chủ (bao gồm bản nháp, chỉnh màu sắc và hình ảnh) trong vòng 15/11.",
+      "Thanh toán trực tuyến: Hoàn thành cuối tháng.",
+      "Nội dung trang giới thiệu: Viết nội dung cho trang giới thiệu cùng tên miền cũ (trong tuần sau).",
+      "Phiên bản tiếng Anh: Đề xuất làm thêm, nhưng giai đoạn hai mới nên tạm gác lại."
+     ]
+    },
+    "giay": 11.3
+   },
+   "H03": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Hỏi ngân sách bàn nhạc",
+       "phu_trach": "",
+       "han": "thứ Sáu tuần này",
+       "dong": 1
+      },
+      {
+       "viec": "Đặt nhà hàng",
+       "phu_trach": "",
+       "han": "20/11",
+       "dong": 2
+      }
+     ],
+     "tom_tat": [
+      "Họp chuẩn bị tiệc tất niên đã kết thúc. Các nội dung chính bao gồm: việc đặt áo đồng phục cho buổi tiệc (đặt xong rồi, chị tuần sau), việc chọn nhà hàng (lo đặt mai, hạn chót 20/11), việc liên hệ bàn nhạc để xin báo giá (hỏi ngân sách trước), và việc lập danh sách khách mời gửi chị vào thứ 4 tuần sau. Các thành viên dự họp gồm: Hà, Quân, Mai, Bình.",
+      "Đầu việc ghi nhận: Việc 'Hỏi ngân sách bàn nhạc' được giao cho người chưa xác định rõ ràng (chuỗi rỗng) vì lời nói không chỉ rõ ai thực hiện hành động này; Việc 'Đặt nhà hàng' được giao cho người chưa xác định rõ ràng (chuỗi rỗng) vì lời nói không chỉ rõ ai thực hiện hành động này."
+     ]
+    },
+    "giay": 21.5
+   },
+   "H04": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Sửa lỗi đam nhập trên ứng dụng điện thoại",
+       "phu_trach": "Long",
+       "han": "hôm nay",
+       "dong": 1
+      },
+      {
+       "viec": "Viết bài hướng dẫn đổi mật khẩu",
+       "phu_trach": "Nhi",
+       "han": "thứ Sáu tuần này",
+       "dong": 2
+      },
+      {
+       "viec": "Báo cáo số thích tồn động lên ban giám đốc",
+       "phu_trach": "",
+       "han": "sáng thứ 5",
+       "dong": 3
+      }
+     ],
+     "tom_tat": [
+      "Sau cuộc họp, các nhiệm vụ được giao là: Long sẽ sửa lỗi đam nhập ngay hôm nay; Nhi sẽ viết bài hướng dẫn đổi mật khẩu vào sáng thứ Sáu tuần này; và người nhận báo cáo số thích tồn động lên ban giám đốc chưa rõ ai (chuỗi rỗng) phải làm vào sáng thứ 5.",
+      "Lưu ý: Việc 'báo cáo số thích tồn động' được giao cho một người không xác định trong biên bản, nên danh sách đầu việc chỉ ghi tên người nhận cuối cùng là chuỗi rỗng."
+     ]
+    },
+    "giay": 21.1
+   },
+   "H05": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Minh yêu cầu Lan học khóa đào tạo sản phẩm trực tiếp trước cuối quý.",
+      "Lan xin nghỉ phép hai ngày cuối tháng.",
+      "Lan sẽ điền tên là Duyệt vào hệ thống."
+     ]
+    },
+    "giay": 8.2
+   },
+   "H06": {
+    "ket_qua": {
+     "dau_viec": [],
+     "tom_tat": [
+      "Cuộc họp cập nhật tiến độ website diễn ra vào ngày 20/11/2026 với các thành viên là Phong, Tuấn và Ngọc. Nội dung thảo luận xoay quanh việc kiểm tra tiến độ thanh toán (đặc biệt là vấn đề thẻ nội địa) và xem xét lại giao diện trang chủ đã được gửi trước đó.",
+      "Kết quả cuộc họp: Không có quyết định cụ thể về việc giao việc mới được ghi nhận trong biên bản này."
+     ]
+    },
+    "giay": 11.2
+   }
+  }
+ },
+ "qwen3.5:4b": {
+  "bien-ban": {
+   "H01": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Gửi báo giá chính thức cho khách hàng Phương Nam.",
+       "phu_trach": "Minh",
+       "han": "trước thứ Sáu tuần này",
+       "dong": 3
+      },
+      {
+       "viec": "Chuẩn bị slide giới thiệu sản phẩm cho buổi gặp Phương Nam.",
+       "phu_trach": "Hùng",
+       "han": "trước thứ Ba tuần sau",
+       "dong": 5
+      },
+      {
+       "viec": "Gọi lại khách hàng Hòa Bình về việc gia hạn hợp đồng bảo trì.",
+       "phu_trach": "Hùng",
+       "han": "",
+       "dong": 8
+      },
+      {
+       "viec": "Tổng hợp doanh số tháng mười và gửi báo cáo cho Lan.",
+       "phu_trach": "Trang",
+       "han": "trước thứ Hai tuần sau",
+       "dong": 12
+      }
+     ],
+     "tom_tat": [
+      "Khách hàng Phương Nam đã đồng ý về mặt kỹ thuật; cần gửi báo giá chính thức trước thứ Sáu tuần này.",
+      "Buổi gặp Phương Nam tuần sau cần có slide giới thiệu sản phẩm do Hùng chuẩn bị và Lan duyệt trước thứ Ba tuần sau.",
+      "Khách hàng Hòa Bình hỏi về gia hạn hợp đồng bảo trì; Hùng sẽ gọi lại khi nào tiện, không gấp.",
+      "Ngân sách tháng này đã hết, hủy việc in tờ rơi cho hội chợ.",
+      "Trang cần tổng hợp doanh số tháng mười và gửi báo cáo trước thứ Hai tuần sau."
+     ]
+    },
+    "giay": 66.9
+   },
+   "H02": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Hoàn thiện giao diện trang chủ (chỉnh màu sắc và hình ảnh)",
+       "phu_trach": "Ngọc",
+       "han": "15/11",
+       "dong": 3
+      },
+      {
+       "viec": "Làm phần thanh toán trực tuyến",
+       "phu_trach": "Tuấn",
+       "han": "",
+       "dong": 4
+      },
+      {
+       "viec": "Viết nội dung trang giới thiệu công ty",
+       "phu_trach": "Phong",
+       "han": "trong tuần sau",
+       "dong": 8
+      }
+     ],
+     "tom_tat": [
+      "Ngọc hoàn thiện giao diện trang chủ (chỉnh màu sắc và hình ảnh) trước ngày 15/11.",
+      "Tuấn làm phần thanh toán trực tuyến.",
+      "Phong viết nội dung trang giới thiệu công ty trong tuần sau do Vy không kịp vì đang chạy chiến dịch quảng cáo.",
+      "Việc kiểm tra tên miền hết hạn sẽ được tính sau, chưa giao việc cụ thể."
+     ]
+    },
+    "giay": 49.6
+   },
+   "H03": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Đặt nhà hàng",
+       "phu_trach": "Mai",
+       "han": "chậm nhất ngày hai mươi tháng mười một",
+       "dong": 3
+      },
+      {
+       "viec": "Lập danh sách khách mời và gửi",
+       "phu_trach": "Quân",
+       "han": "thứ Tư tuần sau",
+       "dong": 5
+      },
+      {
+       "viec": "Liên hệ ban nhạc, xin báo giá",
+       "phu_trach": "Bình",
+       "han": "",
+       "dong": 8
+      }
+     ],
+     "tom_tat": [
+      "Cuộc họp chuẩn bị tiệc tất niên với dự kiến khoảng 80 người.",
+      "Áo đồng phục đã đặt xong, bên đó giao tuần sau.",
+      "Mai được giao việc đặt nhà hàng, yêu cầu chậm nhất ngày 20/11.",
+      "Quân được giao việc lập danh sách khách mời và gửi vào thứ Tư tuần sau.",
+      "Bình được giao việc liên hệ ban nhạc để xin báo giá.",
+      "Việc ngân sách cho ban nhạc cần hỏi lại giám đốc, kết quả sẽ được báo sau.",
+      "Mọi người cam kết làm đúng hạn."
+     ]
+    },
+    "giay": 46.9
+   },
+   "H04": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Sửa lỗi đăng nhập trên ứng dụng điện thoại sau bản cập nhật hôm thứ Hai.",
+       "phu_trach": "Long",
+       "han": "",
+       "dong": 3
+      },
+      {
+       "viec": "Viết bài hướng dẫn đổi mật khẩu trên trang trợ giúp.",
+       "phu_trach": "Nhi",
+       "han": "",
+       "dong": 6
+      },
+      {
+       "viec": "Báo cáo số ticket tồn đọng lên ban giám đốc vào sáng thứ Năm.",
+       "phu_trach": "Thảo",
+       "han": "sáng thứ Năm",
+       "dong": 8
+      },
+      {
+       "viec": "Gửi số liệu chi tiết về số ticket tồn đọng cho Thảo trước tối thứ Tư.",
+       "phu_trach": "Long",
+       "han": "tối thứ Tư",
+       "dong": 10
+      }
+     ],
+     "tom_tat": [
+      "Số ticket tồn đọng tăng hơn 200 do lỗi đăng nhập trên ứng dụng điện thoại sau bản cập nhật hôm thứ Hai.",
+      "Thảo yêu cầu Long sửa lỗi đăng nhập ngay trong hôm nay (ưu tiên số một) và gửi số liệu chi tiết cho Thảo trước tối thứ Tư để báo cáo ban giám đốc vào sáng thứ Năm."
+     ]
+    },
+    "giay": 53.7
+   },
+   "H05": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Học khóa đào tạo sản phẩm mới",
+       "phu_trach": "Minh",
+       "han": "",
+       "dong": 1
+      },
+      {
+       "viec": "Gửi tài liệu khóa đào tạo cho Minh",
+       "phu_trach": "Lan",
+       "han": "chiều nay",
+       "dong": 3
+      },
+      {
+       "viec": "Điền đơn xin nghỉ phép hai ngày cuối tháng",
+       "phu_trach": "Minh",
+       "han": "",
+       "dong": 4
+      }
+     ],
+     "tom_tat": [
+      "Lan thông báo công ty ra sản phẩm mới và yêu cầu Minh học khóa đào tạo trên mạng trước cuối quý. Lan sẽ gửi tài liệu cho Minh ngay chiều nay.",
+      "Minh xin nghỉ phép hai ngày cuối tháng, Lan đồng ý và giao việc điền đơn lên hệ thống cho Minh."
+     ]
+    },
+    "giay": 28.6
+   },
+   "H06": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Họp lại để cập nhật tiến độ website.",
+       "phu_trach": "",
+       "han": "",
+       "dong": 5
+      }
+     ],
+     "tom_tat": [
+      "Cuộc họp được tổ chức để cập nhật nhanh tiến độ website. Tuấn báo cáo việc chạy thử thanh toán với thẻ nội địa đã ổn. Ngọc báo giao diện trang chủ đã gửi hôm qua và Phong xác nhận đẹp. Mọi thứ đang đúng tiến độ."
+     ]
+    },
+    "giay": 16.6
+   }
+  },
+  "ghi-am": {
+   "H01": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Gửi báo giá chính thức cho khách hàng Phương Nam.",
+       "phu_trach": "Minh",
+       "han": "thứ 6 tuần này",
+       "dong": 3
+      },
+      {
+       "viec": "Chuẩn bị say giới thiệu sản phẩm cho buổi gặp khách hàng Phương Nam.",
+       "phu_trach": "Lan",
+       "han": "trước thứ 3 tuần sau",
+       "dong": 5
+      },
+      {
+       "viec": "Gọi lại cho khách hàng Hòa Bình về việc gia hạn hợp đồng bảo.",
+       "phu_trach": "Hùng",
+       "han": "",
+       "dong": 7
+      },
+      {
+       "viec": "Tổng hợp số liệu tháng 10 gửi chị.",
+       "phu_trach": "Trang",
+       "han": "trước thứ 2 tuần sau",
+       "dong": 10
+      }
+     ],
+     "tom_tat": [
+      "Gửi báo giá cho khách hàng Phương Nam trước thứ 6 tuần này.",
+      "Lan chuẩn bị say giới thiệu sản phẩm cho buổi gặp Phương Nam (tuần sau) xong trước thứ 3 tuần sau để chị diệt.",
+      "Hùng gọi lại cho khách hàng Hòa Bình về việc gia hạn hợp đồng bảo (khi nào tiện, không gấp).",
+      "Ngân sách tháng này hết nên bỏ việc in tờ rơi cho hội trợ.",
+      "Trang tổng hợp số liệu tháng 10 gửi chị trước thứ 2 tuần sau."
+     ]
+    },
+    "giay": 56.5
+   },
+   "H02": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Hoàn thiện giao diện trang chủ",
+       "phu_trach": "Mọc",
+       "han": "15/11",
+       "dong": 3
+      },
+      {
+       "viec": "Làm phần thanh toán trực tuyến",
+       "phu_trach": "Em",
+       "han": "Cuối tháng này",
+       "dong": 4
+      },
+      {
+       "viec": "Viết nội dung trang giới thiệu",
+       "phu_trach": "Anh",
+       "han": "Tuần sau",
+       "dong": 7
+      },
+      {
+       "viec": "Kiểm tra xem tên miền hết hạn ngày nào",
+       "phu_trach": "",
+       "han": "",
+       "dong": 9
+      }
+     ],
+     "tom_tat": [
+      "Hoàn thiện giao diện trang chủ (Mọc, hạn 15/11). Làm phần thanh toán trực tuyến (Em, cuối tháng này). Viết nội dung trang giới thiệu (Anh, tuần sau). Kiểm tra ngày hết hạn tên miền."
+     ]
+    },
+    "giay": 43.3
+   },
+   "H03": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Lo đặt nhà hàng",
+       "phu_trach": "",
+       "han": "Chậm nhất ngày 20 tháng 11",
+       "dong": 3
+      },
+      {
+       "viec": "Hỏi 3-4 chỗ và báo chị",
+       "phu_trach": "",
+       "han": "",
+       "dong": 4
+      },
+      {
+       "viec": "Lập danh sách khách mời, gửi chị vào thứ 4 tuần sau",
+       "phu_trach": "",
+       "han": "thứ 4 tuần sau",
+       "dong": 4
+      },
+      {
+       "viec": "Liên hệ bàn nhạc giúp xin báo giá",
+       "phu_trach": "",
+       "han": "",
+       "dong": 6
+      }
+     ],
+     "tom_tat": [
+      "Chuẩn bị tiệc tất niên cho khoảng 80 người.",
+      "Áo đồng phục đã đặt xong, cần xác nhận lại tuần sau.",
+      "Đặt nhà hàng với hạn chót ngày 20 tháng 11.",
+      "Quân lập danh sách khách mời và gửi vào thứ 4 tuần sau.",
+      "Liên hệ bàn nhạc để xin báo giá (chờ kết quả ngân sách từ giám đốc)."
+     ]
+    },
+    "giay": 46.7
+   },
+   "H04": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Sửa lỗi đam nhập trên ứng dụng điện thoại",
+       "phu_trach": "Long",
+       "han": "",
+       "dong": 3
+      },
+      {
+       "viec": "Viết bài hướng dẫn đổi mật khẩu trên trang trợ giúp",
+       "phu_trach": "Nhi",
+       "han": "",
+       "dong": 6
+      },
+      {
+       "viec": "Báo cáo số thích tồn động lên ban giám đốc",
+       "phu_trach": "Chị",
+       "han": "sáng thứ 5",
+       "dong": 7
+      },
+      {
+       "viec": "Gửi số liệu chi tiết cho chị",
+       "phu_trach": "Em",
+       "han": "tối thứ 4",
+       "dong": 9
+      }
+     ],
+     "tom_tat": [
+      "Sửa lỗi đam nhập trên ứng dụng điện thoại (Long)",
+      "Viết bài hướng dẫn đổi mật khẩu (Nhi)",
+      "Báo cáo số thích tồn động lên ban giám đốc vào sáng thứ 5 (Chị)",
+      "Gửi số liệu chi tiết cho chị vào tối thứ 4 (Em)"
+     ]
+    },
+    "giay": 50.0
+   },
+   "H05": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Đào tạo sản phẩm mới",
+       "phu_trach": "",
+       "han": "",
+       "dong": 1
+      },
+      {
+       "viec": "Gửi tài liệu đào tạo trên mạng",
+       "phu_trach": "",
+       "han": "",
+       "dong": 3
+      },
+      {
+       "viec": "Điền đơn xin nghỉ phép hai ngày cuối tháng",
+       "phu_trach": "",
+       "han": "",
+       "dong": 4
+      }
+     ],
+     "tom_tat": [
+      "Minh được giao nhiệm vụ học khóa đào tạo sản phẩm mới trước cuối quý.",
+      "Chị Duyệt sẽ gửi tài liệu đào tạo trên mạng cho Minh chiều nay.",
+      "Minh xin nghỉ phép hai ngày cuối tháng và cần điền đơn trên hệ thống."
+     ]
+    },
+    "giay": 27.2
+   },
+   "H06": {
+    "ket_qua": {
+     "dau_viec": [
+      {
+       "viec": "Cập nhật nhanh thổi Tuấn phần thanh toán thế nào rồi.",
+       "phu_trach": "",
+       "han": "",
+       "dong": 1
+      },
+      {
+       "viec": "Gửi trang chủ cho anh xem.",
+       "phu_trach": "",
+       "han": "",
+       "dong": 2
+      }
+     ],
+     "tom_tat": [
+      "Cuộc họp cập nhật tiến độ website với các thành viên Phong, Tuấn, Ngọc. Đã chạy thử thanh toán thẻ nội địa và trang chủ đã được gửi để xem xét."
+     ]
+    },
+    "giay": 17.7
+   }
+  }
+ }
+}
