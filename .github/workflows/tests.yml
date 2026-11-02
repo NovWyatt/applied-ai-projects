@@ -1,0 +1,36 @@
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    name: ${{ matrix.project }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # Test không tải mô hình (dùng kết quả đã lưu), nên chỉ cài phần thư viện test cần:
+          # bỏ qua PaddlePaddle, PyTorch, Whisper. Phiên bản khớp với requirements.txt của từng dự án.
+          - project: 01-doc-hoa-don
+            install: numpy==2.3.5 pandas==3.1.0 pillow==13.0.0 pytest==9.2.0
+          - project: 02-tim-san-pham-bang-anh
+            install: numpy==2.5.4 pillow==13.0.0 qdrant-client==1.20.0 pytest==9.2.0
+          - project: 03-phan-loai-ticket
+            install: -r requirements.txt
+          - project: 04-tom-tat-cuoc-hop
+            install: pydantic==2.14.2 pytest==9.2.0
+          - project: 05-goi-y-bai-viet
+            install: -r requirements.txt
+    defaults:
+      run:
+        working-directory: ${{ matrix.project }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install ${{ matrix.install }}
+      - run: pytest -q
